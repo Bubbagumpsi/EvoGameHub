@@ -10,7 +10,7 @@
   <link rel="icon" type="image/x-icon" href="./favicon.ico">
   <script src = "./favicon.js" defer></script>
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css" >
-<meta name="title" content="Gxme Hub">
+<meta name="title" content="EvoGameHub">
 <meta name="description" content="OP Unbl*cked gxmes site.">
 <meta name="keywords" content="gxme, gxme hub, epic, roblox unbl*cked, sealcentral, game hub, unbl*cked games, unbl*cked WTF">
 <meta name="robots" content="index, follow">
